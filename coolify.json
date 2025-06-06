@@ -1,0 +1,8 @@
+{
+    "build_pack": "nixpacks",
+    "publish_directory": "/",
+    "ports_exposes": "3000",
+    "settings": {
+      "is_static": false
+    }
+}
